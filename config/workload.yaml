@@ -18,7 +18,7 @@ spec:
         autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/carlosonunez-vmw/awesome-web-app
       ref:
         branch: main
   serviceClaims:
